@@ -1,6 +1,6 @@
 ### Oláaa! Meu nome é Luis Fernando, seja bem vindo. 👋
 
- 🔭 Estudante da Trybe ✌
+ 🔭 Estudante de Desenvolvimento Web Trybe ✌
 
  🌱 Atualmente estou aprendendo sobre Back-End
 
